@@ -18,5 +18,5 @@ plt.title('Preço da Gasolina ao Longo dos Dias')
 # Salvar o gráfico no arquivo PNG
 plt.savefig('gasolina.png')
 
-# Exibir o gráfico
+# Exibir o gráfico 
 plt.show()
